@@ -3,6 +3,15 @@ body {
     color: rgb(167, 232, 243);
 }
 
+header {
+    border: solid 2px rgb(223, 0, 145);
+    font-size: 32px;
+    padding: 10px;
+    color: aqua;
+    
+    
+}
+
 h1 {
     font-size: 30px;
     text-align: center;
